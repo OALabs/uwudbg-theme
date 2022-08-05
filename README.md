@@ -7,12 +7,13 @@
 Don't blame me, the chat made me do it! Welcome to the best theme of x64dbg, guaranteed to immediately level up your debugging... because you will want to close this monstrosity as quickly as possible 😅
 
 ## I want it!
-- Download `UwUdbg.zip` and unzip to your x64dbg `/themes` directory. 
+- Clone repository
+- Copy `/themes` to x64dbg directory
+- Copy `/translations` to x64dbg directory
 - Open x64dbg and choose Options->Themes->UwUdbg
-- Immediately close x64dbg! What have you done?!
-- Download `x64dbg_af.qm` and copy to your x64dbg `/translations` directory.
-- Open x64dbg and choose Options->Languages->[af] Afrikaans
-- Weep as your debugger now speaks uwu! 
+- What have you done?!
+- Choose Options->Languages->[af] Afrikaans and restart debugger
+- Weep as your debugger now speaks kawaii! 
 
 ## Support
 Are you kidding?! 🤣
